@@ -14,7 +14,9 @@ Current Battery Level: 100%
 Usage: ./bms [nsave|msave|hsave|auto]                                                                                                                                      
 Options:
      nsave - No power saving (Default limits)
-     msave - Medium power saving (50% limit)                                                                                                                                hsave - High power saving (20% limit)                                                                                                                                  auto  - Automatically select mode based on battery level  
+     msave - Medium power saving (50% limit)
+     hsave - High power saving (20% limit)
+     auto  - Automatically select mode based on battery level  
 ```
 
 
